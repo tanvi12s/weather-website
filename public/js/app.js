@@ -1,5 +1,3 @@
-console.log('Client side')
-
 //fetch is a browser based API
 
 const weatherForm = document.querySelector('form')
